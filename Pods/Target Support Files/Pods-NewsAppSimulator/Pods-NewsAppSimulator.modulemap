@@ -1,0 +1,6 @@
+framework module Pods_NewsAppSimulator {
+  umbrella header "Pods-NewsAppSimulator-umbrella.h"
+
+  export *
+  module * { export * }
+}
